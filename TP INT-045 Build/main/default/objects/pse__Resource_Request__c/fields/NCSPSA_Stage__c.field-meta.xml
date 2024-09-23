@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>NCSPSA_Stage__c</fullName>
+    <label>Stage</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>pse__Status__c</controllingField>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Pending Council / Mgt Approval</fullName>
+                <default>false</default>
+                <label>Pending Council / Mgt Approval</label>
+            </value>
+            <value>
+                <fullName>Pending External Fulfilment</fullName>
+                <default>false</default>
+                <label>Pending External Fulfilment</label>
+            </value>
+            <value>
+                <fullName>Pending Internal Fulfilment</fullName>
+                <default>false</default>
+                <label>Pending Internal Fulfilment</label>
+            </value>
+            <value>
+                <fullName>Pending Offer</fullName>
+                <default>false</default>
+                <label>Pending Offer</label>
+            </value>
+            <value>
+                <fullName>Offer Made</fullName>
+                <default>false</default>
+                <label>Offer Made</label>
+            </value>
+            <value>
+                <fullName>Offer Accepted</fullName>
+                <default>false</default>
+                <label>Offer Accepted</label>
+            </value>
+            <value>
+                <fullName>Pending Clearance</fullName>
+                <default>false</default>
+                <label>Pending Clearance</label>
+            </value>
+            <value>
+                <fullName>Awaiting staff to be onboard project</fullName>
+                <default>false</default>
+                <label>Awaiting staff to be onboard project</label>
+            </value>
+            <value>
+                <fullName>External Fulfilment Cancelled</fullName>
+                <default>false</default>
+                <label>External Fulfilment Cancelled</label>
+            </value>
+            <value>
+                <fullName>Pending Assignment</fullName>
+                <default>false</default>
+                <label>Pending Assignment</label>
+            </value>
+            <value>
+                <fullName>Request On-Hold</fullName>
+                <default>false</default>
+                <label>Request On-Hold</label>
+            </value>
+            <value>
+                <fullName>Cancelled</fullName>
+                <default>false</default>
+                <label>Cancelled</label>
+            </value>
+            <value>
+                <fullName>Accepted By Interviewer / Offer Made</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Accepted By Interviewer / Offer Made</label>
+            </value>
+            <value>
+                <fullName>Disapproved</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Disapproved</label>
+            </value>
+            <value>
+                <fullName>Offer Accepted / Pending Clearance</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Offer Accepted / Pending Clearance</label>
+            </value>
+            <value>
+                <fullName>Onboarded / Closed</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Onboarded / Closed</label>
+            </value>
+        </valueSetDefinition>
+        <valueSettings>
+            <controllingFieldValue>Escalated - Approved</controllingFieldValue>
+            <valueName>Pending External Fulfilment</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Escalated - Approved</controllingFieldValue>
+            <valueName>Pending Offer</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Escalated - Approved</controllingFieldValue>
+            <valueName>Offer Made</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Escalated - Approved</controllingFieldValue>
+            <valueName>Offer Accepted</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Escalated - Approved</controllingFieldValue>
+            <valueName>Pending Clearance</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Escalated - Approved</controllingFieldValue>
+            <valueName>Awaiting staff to be onboard project</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Escalated - Approved</controllingFieldValue>
+            <valueName>Pending Assignment</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Escalated - Disapproved</controllingFieldValue>
+            <valueName>Pending Internal Fulfilment</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>On Hold</controllingFieldValue>
+            <valueName>Request On-Hold</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Cancelled</controllingFieldValue>
+            <valueName>Cancelled</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Escalated</controllingFieldValue>
+            <valueName>Pending Council / Mgt Approval</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Submitted</controllingFieldValue>
+            <valueName>External Fulfilment Cancelled</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,36 @@
+<template>
+    <lightning-card title="EmpApi" icon-name="custom:custom14">
+        <div class="slds-m-around_medium" style="display: flex; flex-direction: column;">
+            <div>
+                <p>
+                    Use the buttons below to subscribe and unsubscribe to a
+                    streaming channel!
+                </p>
+            </div>
+
+            <div class="slds-p-bottom_small">
+                <lightning-input label="Channel Name" value={channelName}
+                    onchange={handleChannelNameChange}></lightning-input>
+            </div>
+
+            <div class="slds-p-bottom_small">
+                <lightning-input label="Resource Request Id" value={reqtId} onchange={changeId}></lightning-input>
+            </div>
+
+            <div style="display: flex; flex-direction: row;">
+                <lightning-button variant="success" label={subscriptionButtonLabel} title={subscriptionButtonLabel}
+                    onclick={handleSubscription}></lightning-button>
+                <lightning-button variant="success" label="Run Platform Event" title="Run Platform Event"
+                    onclick={runApexCode} class="slds-p-left_x-small"></lightning-button>
+            </div>
+
+            <diV>
+                <template lwc:if={result}>
+                    <pre class="code-box">
+                        {result}
+                    </pre>
+                </template>
+            </diV>
+        </div>
+    </lightning-card>
+</template>

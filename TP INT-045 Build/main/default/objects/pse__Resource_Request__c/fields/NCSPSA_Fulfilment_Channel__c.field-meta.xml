@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>NCSPSA_Fulfilment_Channel__c</fullName>
+    <description>The channel through which this RR will be fulfilled</description>
+    <label>Fulfilment Channel</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Convert to Perm/DC</fullName>
+                <default>false</default>
+                <label>Convert to Perm/DC</label>
+            </value>
+            <value>
+                <fullName>Early Talent</fullName>
+                <default>false</default>
+                <label>Early Talent</label>
+            </value>
+            <value>
+                <fullName>ECAS</fullName>
+                <default>false</default>
+                <label>ECAS</label>
+            </value>
+            <value>
+                <fullName>Internal</fullName>
+                <default>true</default>
+                <label>Internal</label>
+            </value>
+            <value>
+                <fullName>HR</fullName>
+                <default>false</default>
+                <label>HR</label>
+            </value>
+            <value>
+                <fullName>Direct Contractors</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Direct Contractors</label>
+            </value>
+            <value>
+                <fullName>Permanent</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Permanent</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

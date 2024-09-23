@@ -1,0 +1,1395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>0019 - Covid-19</fullName>
+        <default>false</default>
+        <label>0019 - Covid-19</label>
+    </customValue>
+    <customValue>
+        <fullName>1002 - Govt Finance &amp; Infra-Growth</fullName>
+        <default>false</default>
+        <label>1002 - Govt Finance &amp; Infra-Growth</label>
+    </customValue>
+    <customValue>
+        <fullName>1003 - MOH, HPB, HSA</fullName>
+        <default>false</default>
+        <label>1003 - MOH, HPB, HSA</label>
+    </customValue>
+    <customValue>
+        <fullName>1004 - IHiS, PH Cluster, Healthcare</fullName>
+        <default>false</default>
+        <label>1004 - IHiS, PH Cluster, Healthcare</label>
+    </customValue>
+    <customValue>
+        <fullName>1005 - Govt Infocomm-Key</fullName>
+        <default>false</default>
+        <label>1005 - Govt Infocomm-Key</label>
+    </customValue>
+    <customValue>
+        <fullName>1008 - Govt Finance &amp; Infra-Key</fullName>
+        <default>false</default>
+        <label>1008 - Govt Finance &amp; Infra-Key</label>
+    </customValue>
+    <customValue>
+        <fullName>1009 - Operations</fullName>
+        <default>false</default>
+        <label>1009 - Operations</label>
+    </customValue>
+    <customValue>
+        <fullName>1012 - Global Sales Support</fullName>
+        <default>false</default>
+        <label>1012 - Global Sales Support</label>
+    </customValue>
+    <customValue>
+        <fullName>1021 - Business Group Mgmt</fullName>
+        <default>false</default>
+        <label>1021 - Business Group Mgmt</label>
+    </customValue>
+    <customValue>
+        <fullName>1022 - IT Infrastructure - Assets Management</fullName>
+        <default>false</default>
+        <label>1022 - IT Infrastructure - Assets Management</label>
+    </customValue>
+    <customValue>
+        <fullName>1031 - Programs for Apps</fullName>
+        <default>false</default>
+        <label>1031 - Programs for Apps</label>
+    </customValue>
+    <customValue>
+        <fullName>1503 - Govt PMO-Growth</fullName>
+        <default>false</default>
+        <label>1503 - Govt PMO-Growth</label>
+    </customValue>
+    <customValue>
+        <fullName>1505 - Govt Real Estate-Growth</fullName>
+        <default>false</default>
+        <label>1505 - Govt Real Estate-Growth</label>
+    </customValue>
+    <customValue>
+        <fullName>1506 - Govt Social Services-Growth</fullName>
+        <default>false</default>
+        <label>1506 - Govt Social Services-Growth</label>
+    </customValue>
+    <customValue>
+        <fullName>1602 - ATC</fullName>
+        <default>false</default>
+        <label>1602 - ATC</label>
+    </customValue>
+    <customValue>
+        <fullName>1603 - Maritime and Logistics</fullName>
+        <default>false</default>
+        <label>1603 - Maritime and Logistics</label>
+    </customValue>
+    <customValue>
+        <fullName>1605 - Industrial Commercial-Growth</fullName>
+        <default>false</default>
+        <label>1605 - Industrial Commercial-Growth</label>
+    </customValue>
+    <customValue>
+        <fullName>1608 - LTA</fullName>
+        <default>false</default>
+        <label>1608 - LTA</label>
+    </customValue>
+    <customValue>
+        <fullName>1609 - Land Transport</fullName>
+        <default>false</default>
+        <label>1609 - Land Transport</label>
+    </customValue>
+    <customValue>
+        <fullName>1610 - Gateways</fullName>
+        <default>false</default>
+        <label>1610 - Gateways</label>
+    </customValue>
+    <customValue>
+        <fullName>2003 - Homeland Security-Key</fullName>
+        <default>false</default>
+        <label>2003 - Homeland Security-Key</label>
+    </customValue>
+    <customValue>
+        <fullName>2004 - Education-Key</fullName>
+        <default>false</default>
+        <label>2004 - Education-Key</label>
+    </customValue>
+    <customValue>
+        <fullName>2005 - Financial Services-Key 1</fullName>
+        <default>false</default>
+        <label>2005 - Financial Services-Key 1</label>
+    </customValue>
+    <customValue>
+        <fullName>2006 - Education (SSOE2)-Key</fullName>
+        <default>false</default>
+        <label>2006 - Education (SSOE2)-Key</label>
+    </customValue>
+    <customValue>
+        <fullName>2009 - Education-Growth</fullName>
+        <default>false</default>
+        <label>2009 - Education-Growth</label>
+    </customValue>
+    <customValue>
+        <fullName>2010 - Financial Services - Insurance and Others</fullName>
+        <default>false</default>
+        <label>2010 - Financial Services - Insurance and Others</label>
+    </customValue>
+    <customValue>
+        <fullName>2011 - FS-Banking &amp; Capital Markets</fullName>
+        <default>false</default>
+        <label>2011 - FS-Banking &amp; Capital Markets</label>
+    </customValue>
+    <customValue>
+        <fullName>2013 - Financials Services-Growth 1</fullName>
+        <default>false</default>
+        <label>2013 - Financials Services-Growth 1</label>
+    </customValue>
+    <customValue>
+        <fullName>2015 - Financial Services-Key 2</fullName>
+        <default>false</default>
+        <label>2015 - Financial Services-Key 2</label>
+    </customValue>
+    <customValue>
+        <fullName>2101 - Defence (HC &amp; Log)-Key</fullName>
+        <default>false</default>
+        <label>2101 - Defence (HC &amp; Log)-Key</label>
+    </customValue>
+    <customValue>
+        <fullName>2102 - DEF (Infocom &amp; Netwk Sys)-Key</fullName>
+        <default>false</default>
+        <label>2102 - DEF (Infocom &amp; Netwk Sys)-Key</label>
+    </customValue>
+    <customValue>
+        <fullName>2111 - Strategic Biz Group Office-GOV+</fullName>
+        <default>false</default>
+        <label>2111 - Strategic Biz Group Office-GOV+</label>
+    </customValue>
+    <customValue>
+        <fullName>2112 - Strategic Biz Group Office-TELCO+</fullName>
+        <default>false</default>
+        <label>2112 - Strategic Biz Group Office-TELCO+</label>
+    </customValue>
+    <customValue>
+        <fullName>2113 - Growth &amp; Sales CoE</fullName>
+        <default>false</default>
+        <label>2113 - Growth &amp; Sales CoE</label>
+    </customValue>
+    <customValue>
+        <fullName>2116 - Strategic Biz Group Office - Enterprise</fullName>
+        <default>false</default>
+        <label>2116 - Strategic Biz Group Office - Enterprise</label>
+    </customValue>
+    <customValue>
+        <fullName>2201 - Digital Experience (Experience Solutions)</fullName>
+        <default>false</default>
+        <label>2201 - Digital Experience (Experience Solutions)</label>
+    </customValue>
+    <customValue>
+        <fullName>2207 - NEXT TeSA</fullName>
+        <default>false</default>
+        <label>2207 - NEXT TeSA</label>
+    </customValue>
+    <customValue>
+        <fullName>2208 - NEXT Resources Support</fullName>
+        <default>false</default>
+        <label>2208 - NEXT Resources Support</label>
+    </customValue>
+    <customValue>
+        <fullName>2301 - Process &amp; Quality Management</fullName>
+        <default>false</default>
+        <label>2301 - Process &amp; Quality Management</label>
+    </customValue>
+    <customValue>
+        <fullName>2302 - Solution Centre Of Excellence</fullName>
+        <default>false</default>
+        <label>2302 - Solution Centre Of Excellence</label>
+    </customValue>
+    <customValue>
+        <fullName>2303 - NCS Interns</fullName>
+        <default>false</default>
+        <label>2303 - NCS Interns</label>
+    </customValue>
+    <customValue>
+        <fullName>2304 - Training cost for Nucleus and Fusion Programme</fullName>
+        <default>false</default>
+        <label>2304 - Training cost for Nucleus and Fusion Programme</label>
+    </customValue>
+    <customValue>
+        <fullName>2310 - Nucleus - Management  Office</fullName>
+        <default>false</default>
+        <label>2310 - Nucleus - Management  Office</label>
+    </customValue>
+    <customValue>
+        <fullName>2311 - Apps Management</fullName>
+        <default>false</default>
+        <label>2311 - Apps Management</label>
+    </customValue>
+    <customValue>
+        <fullName>2313 - Global Resource Management</fullName>
+        <default>false</default>
+        <label>2313 - Global Resource Management</label>
+    </customValue>
+    <customValue>
+        <fullName>2317 - Digital Transformation</fullName>
+        <default>false</default>
+        <label>2317 - Digital Transformation</label>
+    </customValue>
+    <customValue>
+        <fullName>2318 - External Contractor Acquisition Svc</fullName>
+        <default>false</default>
+        <label>2318 - External Contractor Acquisition Svc</label>
+    </customValue>
+    <customValue>
+        <fullName>2321 - Project Management and Analysis</fullName>
+        <default>false</default>
+        <label>2321 - Project Management and Analysis</label>
+    </customValue>
+    <customValue>
+        <fullName>2336 - MP Holding-Infra</fullName>
+        <default>false</default>
+        <label>2336 - MP Holding-Infra</label>
+    </customValue>
+    <customValue>
+        <fullName>2337 - MP Holding-Apps/Engg</fullName>
+        <default>false</default>
+        <label>2337 - MP Holding-Apps/Engg</label>
+    </customValue>
+    <customValue>
+        <fullName>2342 - Digital Experience (Salesforce)</fullName>
+        <default>false</default>
+        <label>2342 - Digital Experience (Salesforce)</label>
+    </customValue>
+    <customValue>
+        <fullName>2343 - Rapid Labs</fullName>
+        <default>false</default>
+        <label>2343 - Rapid Labs</label>
+    </customValue>
+    <customValue>
+        <fullName>2345 - IT CyberSecurity – Cyb Gov, Risk &amp; Comp</fullName>
+        <default>false</default>
+        <label>2345 - IT CyberSecurity – Cyb Gov, Risk &amp; Comp</label>
+    </customValue>
+    <customValue>
+        <fullName>2352 - Next Gen Tech</fullName>
+        <default>false</default>
+        <label>2352 - Next Gen Tech</label>
+    </customValue>
+    <customValue>
+        <fullName>2353 - Product Incubation</fullName>
+        <default>false</default>
+        <label>2353 - Product Incubation</label>
+    </customValue>
+    <customValue>
+        <fullName>2356 - Products</fullName>
+        <default>false</default>
+        <label>2356 - Products</label>
+    </customValue>
+    <customValue>
+        <fullName>2408 - Managed Security Services (MSS)</fullName>
+        <default>false</default>
+        <label>2408 - Managed Security Services (MSS)</label>
+    </customValue>
+    <customValue>
+        <fullName>2411 - Customer Support</fullName>
+        <default>false</default>
+        <label>2411 - Customer Support</label>
+    </customValue>
+    <customValue>
+        <fullName>2416 - Enterprise Management Services(EMS)</fullName>
+        <default>false</default>
+        <label>2416 - Enterprise Management Services(EMS)</label>
+    </customValue>
+    <customValue>
+        <fullName>2417 - Client Platform Solutions</fullName>
+        <default>false</default>
+        <label>2417 - Client Platform Solutions</label>
+    </customValue>
+    <customValue>
+        <fullName>2423 - Business Support &amp; Strategy</fullName>
+        <default>false</default>
+        <label>2423 - Business Support &amp; Strategy</label>
+    </customValue>
+    <customValue>
+        <fullName>2427 - Network Solutions</fullName>
+        <default>false</default>
+        <label>2427 - Network Solutions</label>
+    </customValue>
+    <customValue>
+        <fullName>2428 - Cyber-TS Project Centre</fullName>
+        <default>false</default>
+        <label>2428 - Cyber-TS Project Centre</label>
+    </customValue>
+    <customValue>
+        <fullName>2433 - Sales with SingTel</fullName>
+        <default>false</default>
+        <label>2433 - Sales with SingTel</label>
+    </customValue>
+    <customValue>
+        <fullName>2436 - Managed Service Sales Specialist</fullName>
+        <default>false</default>
+        <label>2436 - Managed Service Sales Specialist</label>
+    </customValue>
+    <customValue>
+        <fullName>2440 - Dedicated Pool-NW &amp; Security Ops</fullName>
+        <default>false</default>
+        <label>2440 - Dedicated Pool-NW &amp; Security Ops</label>
+    </customValue>
+    <customValue>
+        <fullName>2450 - ANZ Bank International Project</fullName>
+        <default>false</default>
+        <label>2450 - ANZ Bank International Project</label>
+    </customValue>
+    <customValue>
+        <fullName>2457 - Bespoke Managed Services</fullName>
+        <default>false</default>
+        <label>2457 - Bespoke Managed Services</label>
+    </customValue>
+    <customValue>
+        <fullName>2458 - Productised Managed Services</fullName>
+        <default>false</default>
+        <label>2458 - Productised Managed Services</label>
+    </customValue>
+    <customValue>
+        <fullName>2470 - Cyber Sales</fullName>
+        <default>false</default>
+        <label>2470 - Cyber Sales</label>
+    </customValue>
+    <customValue>
+        <fullName>2476 - Cyber Management</fullName>
+        <default>false</default>
+        <label>2476 - Cyber Management</label>
+    </customValue>
+    <customValue>
+        <fullName>2478 - MSS Presales</fullName>
+        <default>false</default>
+        <label>2478 - MSS Presales</label>
+    </customValue>
+    <customValue>
+        <fullName>2479 - Cyber-MSS/BSS Project Centre</fullName>
+        <default>false</default>
+        <label>2479 - Cyber-MSS/BSS Project Centre</label>
+    </customValue>
+    <customValue>
+        <fullName>2480 - Cyber Professional Services</fullName>
+        <default>false</default>
+        <label>2480 - Cyber Professional Services</label>
+    </customValue>
+    <customValue>
+        <fullName>2482 - TS Presales</fullName>
+        <default>false</default>
+        <label>2482 - TS Presales</label>
+    </customValue>
+    <customValue>
+        <fullName>2523 - GDC Management</fullName>
+        <default>false</default>
+        <label>2523 - GDC Management</label>
+    </customValue>
+    <customValue>
+        <fullName>2526 - Education (SSOE1)-Key</fullName>
+        <default>false</default>
+        <label>2526 - Education (SSOE1)-Key</label>
+    </customValue>
+    <customValue>
+        <fullName>2527 - Nucleus - Talent Development</fullName>
+        <default>false</default>
+        <label>2527 - Nucleus - Talent Development</label>
+    </customValue>
+    <customValue>
+        <fullName>2601 - Commercial Managed Services</fullName>
+        <default>false</default>
+        <label>2601 - Commercial Managed Services</label>
+    </customValue>
+    <customValue>
+        <fullName>2620 - Infra Management</fullName>
+        <default>false</default>
+        <label>2620 - Infra Management</label>
+    </customValue>
+    <customValue>
+        <fullName>2631 - Network Solutions</fullName>
+        <default>false</default>
+        <label>2631 - Network Solutions</label>
+    </customValue>
+    <customValue>
+        <fullName>2632 - System Services</fullName>
+        <default>false</default>
+        <label>2632 - System Services</label>
+    </customValue>
+    <customValue>
+        <fullName>2633 - ANZ Svc Delv Ctr Mgm</fullName>
+        <default>false</default>
+        <label>2633 - ANZ Svc Delv Ctr Mgm</label>
+    </customValue>
+    <customValue>
+        <fullName>2634 - Be Spoke MS &amp; EWO</fullName>
+        <default>false</default>
+        <label>2634 - Be Spoke MS &amp; EWO</label>
+    </customValue>
+    <customValue>
+        <fullName>2635 - Private Cloud MS &amp; BCP</fullName>
+        <default>false</default>
+        <label>2635 - Private Cloud MS &amp; BCP</label>
+    </customValue>
+    <customValue>
+        <fullName>2701 - Communications-Key</fullName>
+        <default>false</default>
+        <label>2701 - Communications-Key</label>
+    </customValue>
+    <customValue>
+        <fullName>2702 - Internet &amp; Infotainment-Growth</fullName>
+        <default>false</default>
+        <label>2702 - Internet &amp; Infotainment-Growth</label>
+    </customValue>
+    <customValue>
+        <fullName>2704 - Communications-Growth</fullName>
+        <default>false</default>
+        <label>2704 - Communications-Growth</label>
+    </customValue>
+    <customValue>
+        <fullName>2705 - MET-Growth</fullName>
+        <default>false</default>
+        <label>2705 - MET-Growth</label>
+    </customValue>
+    <customValue>
+        <fullName>2706 - GE-SEB</fullName>
+        <default>false</default>
+        <label>2706 - GE-SEB</label>
+    </customValue>
+    <customValue>
+        <fullName>2707 - Optus-Growth</fullName>
+        <default>false</default>
+        <label>2707 - Optus-Growth</label>
+    </customValue>
+    <customValue>
+        <fullName>2710 - 5G and IOT Transformation</fullName>
+        <default>false</default>
+        <label>2710 - 5G and IOT Transformation</label>
+    </customValue>
+    <customValue>
+        <fullName>2711 - Telco of the Future Programme</fullName>
+        <default>false</default>
+        <label>2711 - Telco of the Future Programme</label>
+    </customValue>
+    <customValue>
+        <fullName>2712 - ToTF Software Delivery</fullName>
+        <default>false</default>
+        <label>2712 - ToTF Software Delivery</label>
+    </customValue>
+    <customValue>
+        <fullName>2713 - ToTF Delivery</fullName>
+        <default>false</default>
+        <label>2713 - ToTF Delivery</label>
+    </customValue>
+    <customValue>
+        <fullName>2714 - CMT Delivery Leadership</fullName>
+        <default>false</default>
+        <label>2714 - CMT Delivery Leadership</label>
+    </customValue>
+    <customValue>
+        <fullName>2751 - Infra Solution Sales Specialist</fullName>
+        <default>false</default>
+        <label>2751 - Infra Solution Sales Specialist</label>
+    </customValue>
+    <customValue>
+        <fullName>2754 - Partner Alliance</fullName>
+        <default>false</default>
+        <label>2754 - Partner Alliance</label>
+    </customValue>
+    <customValue>
+        <fullName>2755 - System Services</fullName>
+        <default>false</default>
+        <label>2755 - System Services</label>
+    </customValue>
+    <customValue>
+        <fullName>2756 - GB &amp; BD</fullName>
+        <default>false</default>
+        <label>2756 - GB &amp; BD</label>
+    </customValue>
+    <customValue>
+        <fullName>2762 - Cloud Software &amp; Maintenance Sales Speci</fullName>
+        <default>false</default>
+        <label>2762 - Cloud Software &amp; Maintenance Sales Speci</label>
+    </customValue>
+    <customValue>
+        <fullName>2767 - Consumption Offering Development</fullName>
+        <default>false</default>
+        <label>2767 - Consumption Offering Development</label>
+    </customValue>
+    <customValue>
+        <fullName>2779 - Cyber CSAT new hires</fullName>
+        <default>false</default>
+        <label>2779 - Cyber CSAT new hires</label>
+    </customValue>
+    <customValue>
+        <fullName>2808 - Engg Management Centre</fullName>
+        <default>false</default>
+        <label>2808 - Engg Management Centre</label>
+    </customValue>
+    <customValue>
+        <fullName>2819 - Engineering Nucleus</fullName>
+        <default>false</default>
+        <label>2819 - Engineering Nucleus</label>
+    </customValue>
+    <customValue>
+        <fullName>2850 - Core Technology Partners</fullName>
+        <default>false</default>
+        <label>2850 - Core Technology Partners</label>
+    </customValue>
+    <customValue>
+        <fullName>2851 - Distribution</fullName>
+        <default>false</default>
+        <label>2851 - Distribution</label>
+    </customValue>
+    <customValue>
+        <fullName>2866 - Futures</fullName>
+        <default>false</default>
+        <label>2866 - Futures</label>
+    </customValue>
+    <customValue>
+        <fullName>2880 - Design and Marketing</fullName>
+        <default>false</default>
+        <label>2880 - Design and Marketing</label>
+    </customValue>
+    <customValue>
+        <fullName>2881 - Engineering Delivery</fullName>
+        <default>false</default>
+        <label>2881 - Engineering Delivery</label>
+    </customValue>
+    <customValue>
+        <fullName>2912 - IT Engineering BAU</fullName>
+        <default>false</default>
+        <label>2912 - IT Engineering BAU</label>
+    </customValue>
+    <customValue>
+        <fullName>2913 - IT Infrastructure - Governance</fullName>
+        <default>false</default>
+        <label>2913 - IT Infrastructure - Governance</label>
+    </customValue>
+    <customValue>
+        <fullName>2916 - Corp IT - Finance</fullName>
+        <default>false</default>
+        <label>2916 - Corp IT - Finance</label>
+    </customValue>
+    <customValue>
+        <fullName>2921 - IT Engineering Project</fullName>
+        <default>false</default>
+        <label>2921 - IT Engineering Project</label>
+    </customValue>
+    <customValue>
+        <fullName>2922 - IT Applications</fullName>
+        <default>false</default>
+        <label>2922 - IT Applications</label>
+    </customValue>
+    <customValue>
+        <fullName>2925 - IT Transformation (Biz and Tech)</fullName>
+        <default>false</default>
+        <label>2925 - IT Transformation (Biz and Tech)</label>
+    </customValue>
+    <customValue>
+        <fullName>3000 - Global Delivery Centre</fullName>
+        <default>false</default>
+        <label>3000 - Global Delivery Centre</label>
+    </customValue>
+    <customValue>
+        <fullName>3002 - Industry Domain Office</fullName>
+        <default>false</default>
+        <label>3002 - Industry Domain Office</label>
+    </customValue>
+    <customValue>
+        <fullName>3003 - Data and AI Engineering</fullName>
+        <default>false</default>
+        <label>3003 - Data and AI Engineering</label>
+    </customValue>
+    <customValue>
+        <fullName>3004 - Mobile &amp; Apps</fullName>
+        <default>false</default>
+        <label>3004 - Mobile &amp; Apps</label>
+    </customValue>
+    <customValue>
+        <fullName>3005 - Big Data</fullName>
+        <default>false</default>
+        <label>3005 - Big Data</label>
+    </customValue>
+    <customValue>
+        <fullName>3007 - Digital Architecture</fullName>
+        <default>false</default>
+        <label>3007 - Digital Architecture</label>
+    </customValue>
+    <customValue>
+        <fullName>3008 - Transformation Impact Office</fullName>
+        <default>false</default>
+        <label>3008 - Transformation Impact Office</label>
+    </customValue>
+    <customValue>
+        <fullName>3009 - Digital Experience – Strategy and Design</fullName>
+        <default>false</default>
+        <label>3009 - Digital Experience – Strategy and Design</label>
+    </customValue>
+    <customValue>
+        <fullName>3011 - AI Innovations</fullName>
+        <default>false</default>
+        <label>3011 - AI Innovations</label>
+    </customValue>
+    <customValue>
+        <fullName>3012 - Data and AI Strategy</fullName>
+        <default>false</default>
+        <label>3012 - Data and AI Strategy</label>
+    </customValue>
+    <customValue>
+        <fullName>3013 - Cloud CoE</fullName>
+        <default>false</default>
+        <label>3013 - Cloud CoE</label>
+    </customValue>
+    <customValue>
+        <fullName>3014 - NEXT Nucleus</fullName>
+        <default>false</default>
+        <label>3014 - NEXT Nucleus</label>
+    </customValue>
+    <customValue>
+        <fullName>3015 - NEXT Centre Management</fullName>
+        <default>false</default>
+        <label>3015 - NEXT Centre Management</label>
+    </customValue>
+    <customValue>
+        <fullName>3016 - Digital Transformation</fullName>
+        <default>false</default>
+        <label>3016 - Digital Transformation</label>
+    </customValue>
+    <customValue>
+        <fullName>3018 - Project Leadership</fullName>
+        <default>false</default>
+        <label>3018 - Project Leadership</label>
+    </customValue>
+    <customValue>
+        <fullName>3019 - NEXT Cloud</fullName>
+        <default>false</default>
+        <label>3019 - NEXT Cloud</label>
+    </customValue>
+    <customValue>
+        <fullName>3020 - Business Intelligence</fullName>
+        <default>false</default>
+        <label>3020 - Business Intelligence</label>
+    </customValue>
+    <customValue>
+        <fullName>3201 - AI COE</fullName>
+        <default>false</default>
+        <label>3201 - AI COE</label>
+    </customValue>
+    <customValue>
+        <fullName>3400 - Apps Project Centre</fullName>
+        <default>false</default>
+        <label>3400 - Apps Project Centre</label>
+    </customValue>
+    <customValue>
+        <fullName>3471 - Project Leadership - Apps-Gov+</fullName>
+        <default>false</default>
+        <label>3471 - Project Leadership - Apps-Gov+</label>
+    </customValue>
+    <customValue>
+        <fullName>3472 - Project Leadership - Apps-Ent</fullName>
+        <default>false</default>
+        <label>3472 - Project Leadership - Apps-Ent</label>
+    </customValue>
+    <customValue>
+        <fullName>3473 - Service Leadership - Apps-Gov+</fullName>
+        <default>false</default>
+        <label>3473 - Service Leadership - Apps-Gov+</label>
+    </customValue>
+    <customValue>
+        <fullName>3474 - Application Architect</fullName>
+        <default>false</default>
+        <label>3474 - Application Architect</label>
+    </customValue>
+    <customValue>
+        <fullName>3475 - SAP</fullName>
+        <default>false</default>
+        <label>3475 - SAP</label>
+    </customValue>
+    <customValue>
+        <fullName>3476 - Microsoft</fullName>
+        <default>false</default>
+        <label>3476 - Microsoft</label>
+    </customValue>
+    <customValue>
+        <fullName>3477 - Data Management &amp; Application Testing</fullName>
+        <default>false</default>
+        <label>3477 - Data Management &amp; Application Testing</label>
+    </customValue>
+    <customValue>
+        <fullName>3478 - Business Systems Analysis</fullName>
+        <default>false</default>
+        <label>3478 - Business Systems Analysis</label>
+    </customValue>
+    <customValue>
+        <fullName>3479 - Software Engineering</fullName>
+        <default>false</default>
+        <label>3479 - Software Engineering</label>
+    </customValue>
+    <customValue>
+        <fullName>3480 - Business Delivery Support</fullName>
+        <default>false</default>
+        <label>3480 - Business Delivery Support</label>
+    </customValue>
+    <customValue>
+        <fullName>3482 - Service Leadership - Apps-Ent</fullName>
+        <default>false</default>
+        <label>3482 - Service Leadership - Apps-Ent</label>
+    </customValue>
+    <customValue>
+        <fullName>3483 - Pegasystems</fullName>
+        <default>false</default>
+        <label>3483 - Pegasystems</label>
+    </customValue>
+    <customValue>
+        <fullName>3484 - Xperience Works</fullName>
+        <default>false</default>
+        <label>3484 - Xperience Works</label>
+    </customValue>
+    <customValue>
+        <fullName>3485 - Apps Cloud</fullName>
+        <default>false</default>
+        <label>3485 - Apps Cloud</label>
+    </customValue>
+    <customValue>
+        <fullName>3486 - Pjt &amp; Svc Leadership - Apps-Telco+</fullName>
+        <default>false</default>
+        <label>3486 - Pjt &amp; Svc Leadership - Apps-Telco+</label>
+    </customValue>
+    <customValue>
+        <fullName>3500 - Engg Project Centre</fullName>
+        <default>false</default>
+        <label>3500 - Engg Project Centre</label>
+    </customValue>
+    <customValue>
+        <fullName>3571 - Proj&amp;Svc Leadership - Ent/Telco+</fullName>
+        <default>false</default>
+        <label>3571 - Proj&amp;Svc Leadership - Ent/Telco+</label>
+    </customValue>
+    <customValue>
+        <fullName>3572 - Engg Architect</fullName>
+        <default>false</default>
+        <label>3572 - Engg Architect</label>
+    </customValue>
+    <customValue>
+        <fullName>3573 - Comms</fullName>
+        <default>false</default>
+        <label>3573 - Comms</label>
+    </customValue>
+    <customValue>
+        <fullName>3574 - Comms (Others)</fullName>
+        <default>false</default>
+        <label>3574 - Comms (Others)</label>
+    </customValue>
+    <customValue>
+        <fullName>3575 - C3</fullName>
+        <default>false</default>
+        <label>3575 - C3</label>
+    </customValue>
+    <customValue>
+        <fullName>3576 - Video</fullName>
+        <default>false</default>
+        <label>3576 - Video</label>
+    </customValue>
+    <customValue>
+        <fullName>3577 - IoT</fullName>
+        <default>false</default>
+        <label>3577 - IoT</label>
+    </customValue>
+    <customValue>
+        <fullName>3581 - C4 + AI</fullName>
+        <default>false</default>
+        <label>3581 - C4 + AI</label>
+    </customValue>
+    <customValue>
+        <fullName>3582 - Advanced Communications</fullName>
+        <default>false</default>
+        <label>3582 - Advanced Communications</label>
+    </customValue>
+    <customValue>
+        <fullName>3583 - Edge</fullName>
+        <default>false</default>
+        <label>3583 - Edge</label>
+    </customValue>
+    <customValue>
+        <fullName>3584 - Smart City</fullName>
+        <default>false</default>
+        <label>3584 - Smart City</label>
+    </customValue>
+    <customValue>
+        <fullName>3585 - Intelligent Transport</fullName>
+        <default>false</default>
+        <label>3585 - Intelligent Transport</label>
+    </customValue>
+    <customValue>
+        <fullName>3586 - Secured Network</fullName>
+        <default>false</default>
+        <label>3586 - Secured Network</label>
+    </customValue>
+    <customValue>
+        <fullName>3591 - Proj&amp;Svc Leadership - Gov+</fullName>
+        <default>false</default>
+        <label>3591 - Proj&amp;Svc Leadership - Gov+</label>
+    </customValue>
+    <customValue>
+        <fullName>3600 - Infra-MS Project Centre</fullName>
+        <default>false</default>
+        <label>3600 - Infra-MS Project Centre</label>
+    </customValue>
+    <customValue>
+        <fullName>3604 - OneCare</fullName>
+        <default>false</default>
+        <label>3604 - OneCare</label>
+    </customValue>
+    <customValue>
+        <fullName>3650 - Infra-TS Project Centre</fullName>
+        <default>false</default>
+        <label>3650 - Infra-TS Project Centre</label>
+    </customValue>
+    <customValue>
+        <fullName>3671 - Project Leadership</fullName>
+        <default>false</default>
+        <label>3671 - Project Leadership</label>
+    </customValue>
+    <customValue>
+        <fullName>3672 - Service (IMS) Leadership - CAT1</fullName>
+        <default>false</default>
+        <label>3672 - Service (IMS) Leadership - CAT1</label>
+    </customValue>
+    <customValue>
+        <fullName>3673 - Service (IMS) Leadership - Non-CAT1</fullName>
+        <default>false</default>
+        <label>3673 - Service (IMS) Leadership - Non-CAT1</label>
+    </customValue>
+    <customValue>
+        <fullName>3674 - Infrastructure Architect &amp; Systems Mgmt</fullName>
+        <default>false</default>
+        <label>3674 - Infrastructure Architect &amp; Systems Mgmt</label>
+    </customValue>
+    <customValue>
+        <fullName>3675 - Hybrid IT</fullName>
+        <default>false</default>
+        <label>3675 - Hybrid IT</label>
+    </customValue>
+    <customValue>
+        <fullName>3676 - Cloud</fullName>
+        <default>false</default>
+        <label>3676 - Cloud</label>
+    </customValue>
+    <customValue>
+        <fullName>3677 - Network</fullName>
+        <default>false</default>
+        <label>3677 - Network</label>
+    </customValue>
+    <customValue>
+        <fullName>3678 - Data Centre &amp; BCP</fullName>
+        <default>false</default>
+        <label>3678 - Data Centre &amp; BCP</label>
+    </customValue>
+    <customValue>
+        <fullName>3679 - EUC &amp; Service Desk</fullName>
+        <default>false</default>
+        <label>3679 - EUC &amp; Service Desk</label>
+    </customValue>
+    <customValue>
+        <fullName>3680 - Adaptive Ops and Engineering</fullName>
+        <default>false</default>
+        <label>3680 - Adaptive Ops and Engineering</label>
+    </customValue>
+    <customValue>
+        <fullName>3681 - ATFM Shared Resource Management</fullName>
+        <default>false</default>
+        <label>3681 - ATFM Shared Resource Management</label>
+    </customValue>
+    <customValue>
+        <fullName>3683 - Service Leadership (Ent)</fullName>
+        <default>false</default>
+        <label>3683 - Service Leadership (Ent)</label>
+    </customValue>
+    <customValue>
+        <fullName>3684 - Infra Nucleus</fullName>
+        <default>false</default>
+        <label>3684 - Infra Nucleus</label>
+    </customValue>
+    <customValue>
+        <fullName>3685 - Software Defined Platform</fullName>
+        <default>false</default>
+        <label>3685 - Software Defined Platform</label>
+    </customValue>
+    <customValue>
+        <fullName>3686 - OneCare Support</fullName>
+        <default>false</default>
+        <label>3686 - OneCare Support</label>
+    </customValue>
+    <customValue>
+        <fullName>3687 - DataOps</fullName>
+        <default>false</default>
+        <label>3687 - DataOps</label>
+    </customValue>
+    <customValue>
+        <fullName>3761 - Cyber Nucleus</fullName>
+        <default>false</default>
+        <label>3761 - Cyber Nucleus</label>
+    </customValue>
+    <customValue>
+        <fullName>3771 - Project Leadership</fullName>
+        <default>false</default>
+        <label>3771 - Project Leadership</label>
+    </customValue>
+    <customValue>
+        <fullName>3772 - Cyber Architecture</fullName>
+        <default>false</default>
+        <label>3772 - Cyber Architecture</label>
+    </customValue>
+    <customValue>
+        <fullName>3774 - Cyber Access Management</fullName>
+        <default>false</default>
+        <label>3774 - Cyber Access Management</label>
+    </customValue>
+    <customValue>
+        <fullName>3775 - Cyber End Point &amp; Network Security</fullName>
+        <default>false</default>
+        <label>3775 - Cyber End Point &amp; Network Security</label>
+    </customValue>
+    <customValue>
+        <fullName>3776 - Cyber Threat Monitoring</fullName>
+        <default>false</default>
+        <label>3776 - Cyber Threat Monitoring</label>
+    </customValue>
+    <customValue>
+        <fullName>3777 - Cloud Security</fullName>
+        <default>false</default>
+        <label>3777 - Cloud Security</label>
+    </customValue>
+    <customValue>
+        <fullName>3778 - Cyber Special Ops–R&amp;D</fullName>
+        <default>false</default>
+        <label>3778 - Cyber Special Ops–R&amp;D</label>
+    </customValue>
+    <customValue>
+        <fullName>3779 - Managed Cyber Operations</fullName>
+        <default>false</default>
+        <label>3779 - Managed Cyber Operations</label>
+    </customValue>
+    <customValue>
+        <fullName>3780 - Professional Security Services</fullName>
+        <default>false</default>
+        <label>3780 - Professional Security Services</label>
+    </customValue>
+    <customValue>
+        <fullName>3781 - Service Leadership</fullName>
+        <default>false</default>
+        <label>3781 - Service Leadership</label>
+    </customValue>
+    <customValue>
+        <fullName>3782 - Managed Cyber Device Services</fullName>
+        <default>false</default>
+        <label>3782 - Managed Cyber Device Services</label>
+    </customValue>
+    <customValue>
+        <fullName>3783 - Governance, Risk and Compliance</fullName>
+        <default>false</default>
+        <label>3783 - Governance, Risk and Compliance</label>
+    </customValue>
+    <customValue>
+        <fullName>5202 - NCSI Shanghai</fullName>
+        <default>false</default>
+        <label>5202 - NCSI Shanghai</label>
+    </customValue>
+    <customValue>
+        <fullName>5203 - NCSI HK</fullName>
+        <default>false</default>
+        <label>5203 - NCSI HK</label>
+    </customValue>
+    <customValue>
+        <fullName>5204 - NCSI Shanghai - Shenzhen</fullName>
+        <default>false</default>
+        <label>5204 - NCSI Shanghai - Shenzhen</label>
+    </customValue>
+    <customValue>
+        <fullName>5205 - Global Business (AU)</fullName>
+        <default>false</default>
+        <label>5205 - Global Business (AU)</label>
+    </customValue>
+    <customValue>
+        <fullName>5206 - NCSI Philippines</fullName>
+        <default>false</default>
+        <label>5206 - NCSI Philippines</label>
+    </customValue>
+    <customValue>
+        <fullName>5207 - NCSI Lanka</fullName>
+        <default>false</default>
+        <label>5207 - NCSI Lanka</label>
+    </customValue>
+    <customValue>
+        <fullName>5209 - NCSI Malaysia</fullName>
+        <default>false</default>
+        <label>5209 - NCSI Malaysia</label>
+    </customValue>
+    <customValue>
+        <fullName>5211 - Bahrain/Middle East</fullName>
+        <default>false</default>
+        <label>5211 - Bahrain/Middle East</label>
+    </customValue>
+    <customValue>
+        <fullName>5212 - India ODC</fullName>
+        <default>false</default>
+        <label>5212 - India ODC</label>
+    </customValue>
+    <customValue>
+        <fullName>5216 - Chengdu Delivery Centre</fullName>
+        <default>false</default>
+        <label>5216 - Chengdu Delivery Centre</label>
+    </customValue>
+    <customValue>
+        <fullName>5220 - Brunei</fullName>
+        <default>false</default>
+        <label>5220 - Brunei</label>
+    </customValue>
+    <customValue>
+        <fullName>5221 - NCSI without presence</fullName>
+        <default>false</default>
+        <label>5221 - NCSI without presence</label>
+    </customValue>
+    <customValue>
+        <fullName>5225 - Regional Telco</fullName>
+        <default>false</default>
+        <label>5225 - Regional Telco</label>
+    </customValue>
+    <customValue>
+        <fullName>5226 - Phillippines-Non-Globe</fullName>
+        <default>false</default>
+        <label>5226 - Phillippines-Non-Globe</label>
+    </customValue>
+    <customValue>
+        <fullName>5227 - India ODC (INFRA)</fullName>
+        <default>false</default>
+        <label>5227 - India ODC (INFRA)</label>
+    </customValue>
+    <customValue>
+        <fullName>5228 - Vietnam Strategic Delivery Centre</fullName>
+        <default>false</default>
+        <label>5228 - Vietnam Strategic Delivery Centre</label>
+    </customValue>
+    <customValue>
+        <fullName>5229 - ODC India (Cyber)</fullName>
+        <default>false</default>
+        <label>5229 - ODC India (Cyber)</label>
+    </customValue>
+    <customValue>
+        <fullName>5231 - ODC India (NEXT)</fullName>
+        <default>false</default>
+        <label>5231 - ODC India (NEXT)</label>
+    </customValue>
+    <customValue>
+        <fullName>5405 - Strategic Planning &amp; Research(SPR)</fullName>
+        <default>false</default>
+        <label>5405 - Strategic Planning &amp; Research(SPR)</label>
+    </customValue>
+    <customValue>
+        <fullName>6101 - GAM 1</fullName>
+        <default>false</default>
+        <label>6101 - GAM 1</label>
+    </customValue>
+    <customValue>
+        <fullName>6102 - GAM 2</fullName>
+        <default>false</default>
+        <label>6102 - GAM 2</label>
+    </customValue>
+    <customValue>
+        <fullName>6103 - GAM 3</fullName>
+        <default>false</default>
+        <label>6103 - GAM 3</label>
+    </customValue>
+    <customValue>
+        <fullName>6201 - SGO-Bangladesh</fullName>
+        <default>false</default>
+        <label>6201 - SGO-Bangladesh</label>
+    </customValue>
+    <customValue>
+        <fullName>6204 - SGO-Hong Kong</fullName>
+        <default>false</default>
+        <label>6204 - SGO-Hong Kong</label>
+    </customValue>
+    <customValue>
+        <fullName>6207 - SGO-Japan</fullName>
+        <default>false</default>
+        <label>6207 - SGO-Japan</label>
+    </customValue>
+    <customValue>
+        <fullName>6216 - SGO-USA</fullName>
+        <default>false</default>
+        <label>6216 - SGO-USA</label>
+    </customValue>
+    <customValue>
+        <fullName>6301 - Enterprise Sales - Govt1</fullName>
+        <default>false</default>
+        <label>6301 - Enterprise Sales - Govt1</label>
+    </customValue>
+    <customValue>
+        <fullName>6302 - Enterprise Sales - Govt2</fullName>
+        <default>false</default>
+        <label>6302 - Enterprise Sales - Govt2</label>
+    </customValue>
+    <customValue>
+        <fullName>6303 - Enterprise Sales 1</fullName>
+        <default>false</default>
+        <label>6303 - Enterprise Sales 1</label>
+    </customValue>
+    <customValue>
+        <fullName>6304 - Enterprise Sales 2</fullName>
+        <default>false</default>
+        <label>6304 - Enterprise Sales 2</label>
+    </customValue>
+    <customValue>
+        <fullName>6311 - Enterprise Sales 3</fullName>
+        <default>false</default>
+        <label>6311 - Enterprise Sales 3</label>
+    </customValue>
+    <customValue>
+        <fullName>6312 - BizSeg (Mid Market 2)</fullName>
+        <default>false</default>
+        <label>6312 - BizSeg (Mid Market 2)</label>
+    </customValue>
+    <customValue>
+        <fullName>6313 - BizSeg (Mid Market 3)</fullName>
+        <default>false</default>
+        <label>6313 - BizSeg (Mid Market 3)</label>
+    </customValue>
+    <customValue>
+        <fullName>6315 - BizSeg (Mid Market 1)</fullName>
+        <default>false</default>
+        <label>6315 - BizSeg (Mid Market 1)</label>
+    </customValue>
+    <customValue>
+        <fullName>6316 - BizSeg(Growth Market 1)</fullName>
+        <default>false</default>
+        <label>6316 - BizSeg(Growth Market 1)</label>
+    </customValue>
+    <customValue>
+        <fullName>6317 - BizSeg (Growth Market 2)</fullName>
+        <default>false</default>
+        <label>6317 - BizSeg (Growth Market 2)</label>
+    </customValue>
+    <customValue>
+        <fullName>6319 - BizSeg(Mid Mrkt 5)</fullName>
+        <default>false</default>
+        <label>6319 - BizSeg(Mid Mrkt 5)</label>
+    </customValue>
+    <customValue>
+        <fullName>6852 - Security LOB Holding Centre (MSS/CPS)</fullName>
+        <default>false</default>
+        <label>6852 - Security LOB Holding Centre (MSS/CPS)</label>
+    </customValue>
+    <customValue>
+        <fullName>6861 - Security CFU Holding Centre (MS Security)</fullName>
+        <default>false</default>
+        <label>6861 - Security CFU Holding Centre (MS Security)</label>
+    </customValue>
+    <customValue>
+        <fullName>6871 - Security BG/GEB Hldg Ctr(MS Security)</fullName>
+        <default>false</default>
+        <label>6871 - Security BG/GEB Hldg Ctr(MS Security)</label>
+    </customValue>
+    <customValue>
+        <fullName>6873 - Security BG/GEB Hldg Ctr(PS/CSI)</fullName>
+        <default>false</default>
+        <label>6873 - Security BG/GEB Hldg Ctr(PS/CSI)</label>
+    </customValue>
+    <customValue>
+        <fullName>6881 - Security Singtel Sell Thru Hldg Ctr (MS)</fullName>
+        <default>false</default>
+        <label>6881 - Security Singtel Sell Thru Hldg Ctr (MS)</label>
+    </customValue>
+    <customValue>
+        <fullName>6883 - Security Singtel Sell Thru (PS/CSI)</fullName>
+        <default>false</default>
+        <label>6883 - Security Singtel Sell Thru (PS/CSI)</label>
+    </customValue>
+    <customValue>
+        <fullName>7011 - CEO Office</fullName>
+        <default>false</default>
+        <label>7011 - CEO Office</label>
+    </customValue>
+    <customValue>
+        <fullName>7110 - FSS-AP(NCS)</fullName>
+        <default>false</default>
+        <label>7110 - FSS-AP(NCS)</label>
+    </customValue>
+    <customValue>
+        <fullName>7111 - Corporate Administration</fullName>
+        <default>false</default>
+        <label>7111 - Corporate Administration</label>
+    </customValue>
+    <customValue>
+        <fullName>7112 - Logistic Management</fullName>
+        <default>false</default>
+        <label>7112 - Logistic Management</label>
+    </customValue>
+    <customValue>
+        <fullName>7113 - Procurement</fullName>
+        <default>false</default>
+        <label>7113 - Procurement</label>
+    </customValue>
+    <customValue>
+        <fullName>7121 - Direct Sales Support</fullName>
+        <default>false</default>
+        <label>7121 - Direct Sales Support</label>
+    </customValue>
+    <customValue>
+        <fullName>7132 - NCS Supply Chain</fullName>
+        <default>false</default>
+        <label>7132 - NCS Supply Chain</label>
+    </customValue>
+    <customValue>
+        <fullName>7146 - Sales &amp; Delivery Support</fullName>
+        <default>false</default>
+        <label>7146 - Sales &amp; Delivery Support</label>
+    </customValue>
+    <customValue>
+        <fullName>7191 - Building Management 1</fullName>
+        <default>false</default>
+        <label>7191 - Building Management 1</label>
+    </customValue>
+    <customValue>
+        <fullName>7192 - Building Management 2</fullName>
+        <default>false</default>
+        <label>7192 - Building Management 2</label>
+    </customValue>
+    <customValue>
+        <fullName>7201 - IT Infrastructure</fullName>
+        <default>false</default>
+        <label>7201 - IT Infrastructure</label>
+    </customValue>
+    <customValue>
+        <fullName>7251 - Internal Audit</fullName>
+        <default>false</default>
+        <label>7251 - Internal Audit</label>
+    </customValue>
+    <customValue>
+        <fullName>7301 - Marketing &amp; Communications(Marcoms)</fullName>
+        <default>false</default>
+        <label>7301 - Marketing &amp; Communications(Marcoms)</label>
+    </customValue>
+    <customValue>
+        <fullName>7302 - Partnerships &amp; Alliances (NEXT)</fullName>
+        <default>false</default>
+        <label>7302 - Partnerships &amp; Alliances (NEXT)</label>
+    </customValue>
+    <customValue>
+        <fullName>7303 - Partnerships &amp; Alliances</fullName>
+        <default>false</default>
+        <label>7303 - Partnerships &amp; Alliances</label>
+    </customValue>
+    <customValue>
+        <fullName>7304 - M&amp;A, Govt Relation and Special Projects</fullName>
+        <default>false</default>
+        <label>7304 - M&amp;A, Govt Relation and Special Projects</label>
+    </customValue>
+    <customValue>
+        <fullName>7305 - M&amp;A - Earnout</fullName>
+        <default>false</default>
+        <label>7305 - M&amp;A - Earnout</label>
+    </customValue>
+    <customValue>
+        <fullName>7350 - Commercial Management</fullName>
+        <default>false</default>
+        <label>7350 - Commercial Management</label>
+    </customValue>
+    <customValue>
+        <fullName>7501 - Group Financial Planning and Analysis</fullName>
+        <default>false</default>
+        <label>7501 - Group Financial Planning and Analysis</label>
+    </customValue>
+    <customValue>
+        <fullName>7502 - Biz Financial Planning &amp; Analysis (SBG)</fullName>
+        <default>false</default>
+        <label>7502 - Biz Financial Planning &amp; Analysis (SBG)</label>
+    </customValue>
+    <customValue>
+        <fullName>7503 - Statutory Financial Acctg &amp; Rptg</fullName>
+        <default>false</default>
+        <label>7503 - Statutory Financial Acctg &amp; Rptg</label>
+    </customValue>
+    <customValue>
+        <fullName>7504 - Central Finance</fullName>
+        <default>false</default>
+        <label>7504 - Central Finance</label>
+    </customValue>
+    <customValue>
+        <fullName>7505 - Finance Management</fullName>
+        <default>false</default>
+        <label>7505 - Finance Management</label>
+    </customValue>
+    <customValue>
+        <fullName>7506 - Biz Financial Planning &amp; Analysis (SO)</fullName>
+        <default>false</default>
+        <label>7506 - Biz Financial Planning &amp; Analysis (SO)</label>
+    </customValue>
+    <customValue>
+        <fullName>7520 - Compliance</fullName>
+        <default>false</default>
+        <label>7520 - Compliance</label>
+    </customValue>
+    <customValue>
+        <fullName>7521 - Risk Management</fullName>
+        <default>false</default>
+        <label>7521 - Risk Management</label>
+    </customValue>
+    <customValue>
+        <fullName>7611 - Learning &amp; Organisation Development</fullName>
+        <default>false</default>
+        <label>7611 - Learning &amp; Organisation Development</label>
+    </customValue>
+    <customValue>
+        <fullName>7621 - People &amp; Culture</fullName>
+        <default>false</default>
+        <label>7621 - People &amp; Culture</label>
+    </customValue>
+    <customValue>
+        <fullName>7631 - NCS Dojo</fullName>
+        <default>false</default>
+        <label>7631 - NCS Dojo</label>
+    </customValue>
+    <customValue>
+        <fullName>7641 - NCS Employee Engagement</fullName>
+        <default>false</default>
+        <label>7641 - NCS Employee Engagement</label>
+    </customValue>
+    <customValue>
+        <fullName>7651 - Talent Acquisition</fullName>
+        <default>false</default>
+        <label>7651 - Talent Acquisition</label>
+    </customValue>
+    <customValue>
+        <fullName>7661 - Global Delivery</fullName>
+        <default>false</default>
+        <label>7661 - Global Delivery</label>
+    </customValue>
+    <customValue>
+        <fullName>7701 - Legal</fullName>
+        <default>false</default>
+        <label>7701 - Legal</label>
+    </customValue>
+    <customValue>
+        <fullName>7703 - Bid Management Office</fullName>
+        <default>false</default>
+        <label>7703 - Bid Management Office</label>
+    </customValue>
+    <customValue>
+        <fullName>7705 - Strategic Procurement &amp; Sales Ops (SPSO)</fullName>
+        <default>false</default>
+        <label>7705 - Strategic Procurement &amp; Sales Ops (SPSO)</label>
+    </customValue>
+    <customValue>
+        <fullName>7706 - Tesseract</fullName>
+        <default>false</default>
+        <label>7706 - Tesseract</label>
+    </customValue>
+    <customValue>
+        <fullName>7801 - Global Business</fullName>
+        <default>false</default>
+        <label>7801 - Global Business</label>
+    </customValue>
+    <customValue>
+        <fullName>8888</fullName>
+        <default>false</default>
+        <label>[Test] 8888 - Test Code</label>
+    </customValue>
+    <masterLabel>SAP Centre Code &amp; Name</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
